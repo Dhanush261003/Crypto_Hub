@@ -17,7 +17,7 @@ https://coincrest.vercel.app/
 
 ## Screenshots
 
-![Homepage](https://github.com/santhoshsj-dev/coincrest/assets/105160265/944af380-6e74-45f7-9139-12ae863add37)
+![Homepage](https://github.com/user-attachments/assets/a3a30e0d-3dd0-4c33-9f5a-6d6b7cda05f4)
 
 ![Single coin page](https://github.com/santhoshsj-dev/coincrest/assets/105160265/64a17bac-026b-494a-9bce-3afa65840ecf)
 
